@@ -105,7 +105,7 @@ export default function Home({ propertiesForSale, propertiesForRent }) {
 
 
             <Box position='absolute' right='0' className={styles.bgBanner} >
-              <Image src={house} width='700' height='500px' style={{ borderRadius: '70px' }} />
+              <Image alt='house' src={house} width='700' height='500px' style={{ borderRadius: '70px' }} />
             </Box>
 
 
